@@ -1,5 +1,6 @@
-on:
-  workflow_call:
+name: testy
+
+on: push
 
 jobs:
   ci:
